@@ -14,7 +14,9 @@
 💻 Intern @ BISAG (May – Aug 2025)  
 📚 Tech Stack: React.js | MySQL | Java  
 🔥 Passionate about building real-world projects  
-🔍 Exploring UI development and responsive design  
+🔍 Exploring UI development and responsive design
+📬 Email: abhishekumar222.akd@gmail.com
+📱 +918690193044
 
 ---
 
