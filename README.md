@@ -46,20 +46,17 @@
 ## 📊 GitHub Overview  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shanu1804&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanu1804&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanu1804&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanu1804&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
-## 🌍 Languages & Contributions  
+## 📈 Contribution Graph  
 
 <p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanu1804&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-  
----
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanu1804&theme=tokyo-night&hide_border=true" />
+</p>
 
 ## 🌐 Connect with Me:
 <div align="center">
