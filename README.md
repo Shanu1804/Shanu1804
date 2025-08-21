@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <p align="center"><strong>Aspiring Frontend Developer | React Enthusiast | Java & MySQL Learner</strong></p>
 
-<img src="https://komarev.com/ghpvc/?username=Shanu1804&color=blue" alt="Profile Views" align="center"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shanu1804&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
@@ -63,25 +65,22 @@
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanu1804&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Shanu1804&theme=tokyonight&no-frame=true&margin-w=5&row=1&column=4" height="180" />
-</p>
-
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanu1804&theme=tokyo-night&hide_border=true" />
-</p>
-
-
 ---
 
 ## 🌐 Connect with Me:
-- [Linkedin](https://www.linkedin.com/in/abhishek-kumar-5bb156250/)  
-- [GitHub](https://github.com/Shanu1804/Abhishek-kumar) 
-- [Gmail](mailto:abhishekumar222.akd@gmail.com)  
- 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abhishek-kumar-5bb156250/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Shanu1804/Abhishek-kumar">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:abhishekumar222.akd@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div> 
 
 ---
 
