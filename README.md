@@ -20,7 +20,7 @@
 -  🔁 Scalable Frontend Architecture with React  
 -  ☕ Core Java & OOP Principles  
 -  🌱 Spring Boot & RESTful APIs
--  🎨 Clean UI & Reusable Components Design  
+-  🎨 Clean UI & Reusable Components Design
 ---
 
 ## ⚒️ Tools & Tech Stack:
@@ -41,9 +41,7 @@
    → Built an HR system using React & Spring Boot  
    → Learnt API integration, component structuring & testing  
 
----
-
-## 📊 GitHub Overview  
+--- 
 
 ## 📊 GitHub Overview  
 
@@ -52,11 +50,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanu1804&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanu1804&theme=tokyo-night&hide_border=true" />
-</p>
+--- 
 
 ## 🌐 Connect with Me:
 <div align="center">
@@ -67,7 +61,7 @@
 <a href="https://github.com/Shanu1804/Abhishek-kumar">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:abhishekumar222.akd@gmail.com">
+<a href="mail to:abhishekumar222.akd@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
