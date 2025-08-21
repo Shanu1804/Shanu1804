@@ -9,28 +9,26 @@
 
 ## 📝 About Me:
 - 🎓 Final Year B.Tech Student @ JIET, Jodhpur    
-- 📚 Tech Stack: React.js | MySQL | Java  
-- 🔥 Passionate about building real-world projects  
-- 🎨 Exploring UI development & responsive design  
+- 📚 Java | React | REST APIs | MySQL | Spring Boot
+- 🔥 Passionate about building real-world projects   
 - 📧 Email: abhishekumar222.akd@gmail.com  
 - 📱 Contact: +91 8690193044  
 
 ---
 
 ## 🧠 Currently Learning:
-- 🔹 API Integration with React  
-- 🔹 Java Fundamentals & OOP's Concepts  
-- 🔹 Spring Boot (Basic understanding)  
-- 🔹 Clean frontend architecture & reusable components  
-
+-  🔁 Scalable Frontend Architecture with React  
+-  ☕ Core Java & OOP Principles  
+-  🌱 Spring Boot & RESTful APIs
+-  🎨 Clean UI & Reusable Components Design  
 ---
 
 ## ⚒️ Tools & Tech Stack:
 <div align="center">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java" />
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
