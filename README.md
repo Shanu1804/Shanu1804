@@ -48,10 +48,8 @@
 ## 📊 GitHub Overview  
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Shanu1804&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
   
-  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanu1804&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
