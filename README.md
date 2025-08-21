@@ -79,7 +79,3 @@
 </a>
 
 </div> 
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my projects or reach out 🚀
